@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: Work Hats
+creator:
+- role: author
+  text: Andrea Grassi
+description: The Hidden Logic that Shapes our Motivation
+rights: ©  John Smith, CC BY-NC
+language: en-US
+stylesheet: epub.css
+cover-image: cover.jpg
+...
