@@ -14,3 +14,4 @@ Shit will come, bad times will come. They will always come as they do in real li
 It's hard to know when it's a bad time that'll pass and when a bad time will stay. But whatever the situation you're in you should do your best, work your best, put the best you can do.
 
 Because, even if you leave the company, what you left behind is a better place than the one you first met.
+

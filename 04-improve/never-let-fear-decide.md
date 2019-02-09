@@ -6,7 +6,7 @@ You're panicking, you don't know what to do. A client calls you angry because so
 What do you do?
 Fear will tell you to fix the issue fast, to let the pain disappear as fast as possible so that you can go back to your old self.
 
-It's easy. Just patch until the pain is gone.&nbsp;
+It's easy. Just patch until the pain is gone. 
 That's fear recipe for fixing things. Patch until it's gone.
 
 Now take a deep breath.
@@ -18,7 +18,7 @@ One question that always helped me in this kind of "My life depends on it, every
 
 Which doesn't translate to be fearless or stupid. It means "if I remove the fears that I have now, that little voices, and start as if those don't exist or are false, what decision would I make?"
 
-Fear will always guide you through short term decisions.&nbsp;
+Fear will always guide you through short term decisions. 
 Heart and mind through long term.
 
 Go for the long walk, build a ship that will last a lifetime.

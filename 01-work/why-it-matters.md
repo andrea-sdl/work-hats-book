@@ -4,13 +4,13 @@ Working might feel like trying to help a ship going forward with no idea on wher
 
 It's easy and sometimes required to hide information. To share less of the task to avoid people trying to do something they're not supposed to.
 
-This is a way to control the flow, it works under some circumstances but it has one major flow: It doesn't allow people to grow.&nbsp;
+This is a way to control the flow, it works under some circumstances but it has one major flow: It doesn't allow people to grow. 
 To let them grow you should allow them to make some mistakes, to learn the boundaries between "this is a topic you are competent in and you can contribute" and the "this topic is way out of your context so it's hard to produce a great contribution".
 
 Obviously this argument suppose that you're surrounded by people who can think with their own mind, leaving ego aside and caring about the project.
-If any of these attributes is missing hope is still not lost. It's all a matter of doing one small step at a time, learning and working on the attributes that are not quite there.&nbsp;
+If any of these attributes is missing hope is still not lost. It's all a matter of doing one small step at a time, learning and working on the attributes that are not quite there. 
 
-Once you have them all in place, you can proceed.&nbsp;
+Once you have them all in place, you can proceed. 
 
 "Why it matters" adds a lot of value to everyone. Because people can help you, but they can also understand why you're doing something, leaving aside some personal consideration.
 

@@ -13,7 +13,7 @@ Instead, ask question about the subject, if something isn't quite clear, ask why
 But the less you talk, the more you listen.
 Then if the goal of this entire discussion is for you to learn something or to show that you understood the problem, or even that it's clear what was your mistake, then repeat _with your own words_ what has been said to you.
 
-Much like a summary or a movie trailer, try to list all the information you grasped.&nbsp;
+Much like a summary or a movie trailer, try to list all the information you grasped. 
 This will produce two effects:
 * It'll allow you to be sure of what you learned and check if you listened and understood
 * It'll allow the other person to see that you were actively listening, you were participating.

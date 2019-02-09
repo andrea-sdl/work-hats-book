@@ -26,3 +26,4 @@ Always strive to prepare the work for others as much as possible, lend a hand, c
 Avoid abdication, because with abdication you're teaching people two wrong things.
 1. It's not our job to help people do their best work.
 2. whatever the outcome, I'm not responsible for the task.
+

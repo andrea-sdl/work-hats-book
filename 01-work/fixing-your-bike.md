@@ -22,7 +22,7 @@ Because you are. I didn't find a person in this world, myself included, that at 
 So, why Questions and Surrender?
 We tend to surrender too fast. To accept failure as an immutable condition. We can't simply go forward. We don't have the information, the skills, the knowledge, enough practice, you name it.
 
-&nbsp;What we don't say to ourselves is _how_. How could we get more information? More skill, more knowledge?
+ What we don't say to ourselves is _how_. How could we get more information? More skill, more knowledge?
 
 I had people come to me because they never used a software and didn't know how to use it.
 I didn't either, yet I used it. Was it because I had some magic powers? Of course not. I simply tried, tested, learned.
@@ -45,7 +45,7 @@ Even if I don't have the skills, I can isolate the bug, find the cause and then 
 It might seem like an impossible task but I can guarantee this by experience: I once fixed a bug in a software I didn't develop, that I didn't ever see nor used, developed by people that I didn't know and the only difference between me and them is that I isolated the problem by remove code (in a logaritmic way, but still code removal is).
 
 We seek help too fast for problems that are too littles. It should always sound alarming when you reach out to someone, he/her doesn't reply you and in the minutes you wait for their answers you fix the problem.
-It means you asked for help too fast.&nbsp;
+It means you asked for help too fast. 
 You were lazy maybe, maybe you didn't were confident enough.
 
 Whatever the case, you surrender too fast. And the only way to fix this is to not surrender at all. At first you'll fail and it might be disarming but there's no way to learn without some trial and error.

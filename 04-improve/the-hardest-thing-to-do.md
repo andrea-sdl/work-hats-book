@@ -7,7 +7,7 @@ At work, at home, what is it?
 When I think about this question many boring things come to mind. Cleaning for example is one of them.
 But none of these answer is the correct one.
 
-The hardest thing to do is to do a thing well when you don't want to do it.&nbsp;
+The hardest thing to do is to do a thing well when you don't want to do it. 
 Is to show up, do your work in the best possible way in your worst possible day.
 
 That is the hardest thing to do. It might happen during work, during life, during a night out.

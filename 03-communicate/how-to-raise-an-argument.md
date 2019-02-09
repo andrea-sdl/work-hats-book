@@ -7,7 +7,7 @@ Maybe you won't be able to fix the issue with him/her, but at least having such 
 But how to do it?
 
 You might be tempted to go straight to him and say "Oh you're such a bad friend, you don't care about me, you only care for yourself", but what's the point here?
-The message is all about you trying to blame someone else. What's written here is that you want more care, but it's not even written, it's hidden in the words.&nbsp;
+The message is all about you trying to blame someone else. What's written here is that you want more care, but it's not even written, it's hidden in the words. 
 
 Given this phrase it's obvious that the outcome will raise a heated discussion with no great way to exit it without some extra problems.
 
@@ -29,7 +29,7 @@ So another option would be to say "I really felt betrayed and lost when you did 
 It will clearly open up the discussion, but we're not judging the action, instead we're exploring our world of emotions and asking them for reasoning behind it.
 Obviously if the reasoning is sound we should accept it because, as I said, we're not trying to be right or to prove someone wrong.
 
-And that's about it.&nbsp;
-There will come a time when both option will fail, and in such cases if you're out of ideas you might as well accept the fact that this isn't the right time to discuss this.&nbsp;
+And that's about it. 
+There will come a time when both option will fail, and in such cases if you're out of ideas you might as well accept the fact that this isn't the right time to discuss this. 
 
 There might be some extra walls to pass in their/your defence that we can't simply overcome today.

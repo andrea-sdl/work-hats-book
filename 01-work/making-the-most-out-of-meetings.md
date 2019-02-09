@@ -19,4 +19,4 @@
 17. Ask people _beforehand_ if the meeting time is ok. A meeting on a calendar is not a way to block people time.
 18. Arrive prepared.
 19. Arrive on time.
-20. Don't be a jerk.s
+20. Don't be a jerk.
