@@ -5,8 +5,8 @@ title:
 creator:
 - role: author
   text: Andrea Grassi
-description: The Hidden Logic that Shapes our Motivation
-rights: ©  John Smith, CC BY-NC
+description: Tactics and insights on Being effective Doing your best work, marketing communication  and  getting work done
+rights: ©  Andrea Grassi, CC BY-NC
 language: en-US
 stylesheet: epub.css
 cover-image: cover.jpg

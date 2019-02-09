@@ -6,7 +6,7 @@ Public Repository of the Opensource book "Work Hats"
 `pandoc --toc --epub-embed-font='fonts/*.ttf' -o dist/work-hats-book.epub metadata.txt 00-preface/*.md 01-work/*.md 02-almost-marketing/*.md 03-communicate/*.md 04-improve/*.md 05-conclusions/*.md`
 
 **mobi**
-`kindlegen dist/work-hats-book.epub  -o work-hats-book.mobi
+`kindlegen dist/work-hats-book.epub  -o work-hats-book.mobi`
 
 
 ## License & Copyright
