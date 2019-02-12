@@ -1,4 +1,5 @@
-## the no complain rule
+
+# the no complain rule
 
 Complaining is a thing we love doing. We all complain a lot, for work, at home, for whatever futile reason we have the right to complain and we do it without thinking twice.
 

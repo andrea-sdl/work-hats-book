@@ -1,4 +1,5 @@
-## when work ends
+
+# when work ends
 
 If you happen to be in a smart working company chances are that you're lucky.
 Surrounded by great people with a nice mindset.

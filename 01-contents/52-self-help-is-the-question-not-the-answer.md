@@ -1,4 +1,5 @@
-## self help is the question, not the answer
+
+# self help is the question, not the answer
 
 It usually goes like this: You struggle, you fail, you struggle a lot, you want to get better, get rich, improve.
 
