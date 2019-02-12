@@ -30,9 +30,9 @@ You can find its most updated source on [http://github.com/andrea-sdl/work-hats-
 This book is written in small chapters. 
 There is no real order, so feel free to skip and go back as much as you want.
 
-There are four main sections each one on a different subject area, although you'll easily notice that the boundaries between each subject are small and sometimes the topics can belong to many of the areas.
-
-As such, read it as you please.
+You'll easily notice that the boundaries between each subject are small and sometimes the topics can belong to many of the areas.
+As such, read it as you please, by opening at random, skipping pages, whatever you like.
+Just like life, this book has no specific rules.
 
 ## What are Work Hats?
 
