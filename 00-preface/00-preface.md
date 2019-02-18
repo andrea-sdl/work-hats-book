@@ -30,7 +30,7 @@ You can find its most updated source on [http://github.com/andrea-sdl/work-hats-
 This book is written in short chapters. 
 There is no real order, so feel free to skip forward and go back as much as you want.
 
-You'll easily notice that the boundaries between each subject are small (don't love small, but can't fidn the right word, yet) and sometimes the topics can belong to many of the areas.
+You will notice that subjects have fuzzy boundaries and some of the topics belong to multiple areas.
 As such, read it as you please, by opening at random, skipping pages, whatever you like.
 Just like life, this book has no specific rules.
 
