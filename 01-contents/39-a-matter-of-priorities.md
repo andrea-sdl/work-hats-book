@@ -10,7 +10,7 @@ Think about a work you don't love. You can bear with it for some time, but after
 
 Secondly: You have to say no and protect your borders.
 Borders are all about defining what's important, what do you care about, and acting towards that goal.
-Even if it damages you, even if it's agaist your interest, you must protect the borders as long as they are sound.
+Even if it damages you, even if it's against your interest, you must protect the borders as long as they are sound.
 
 Why? It's not a matter of ideology, it's a matter of protecting the things you love.
 You would do it for your children, you would do it for your mother.

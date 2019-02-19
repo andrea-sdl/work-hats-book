@@ -13,7 +13,7 @@ Now, here's the thing: When someone is discussing about _you_ there's no way you
 If someone comes to you and have something to argue about what you're doing or how you're doing your work it's hard.
 
 It's hard to accept that even if that person is right.
-My personal howto is to take some time and analyze it by removing all the personal bias from it.
+My personal howto is to take some time and analyse it by removing all the personal bias from it.
 
 If I'm thinking "He's saying this to me because _he/she_ doesn't understand bla bla bla" I'm trying to lower the value of their judgement.
 It might help your ego, but it doesn't help you understanding if they're giving you a chance to improve or not.

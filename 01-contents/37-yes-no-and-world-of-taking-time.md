@@ -20,7 +20,7 @@ Or maybe it a day, one week, whatever seems enough to get a hold of what you nee
 You might not get a perfect answer, but at least you will know that your answer is based on actual information and not because you want to be nice to the boss.
 
 After all it all boils down to say more No's in life..
-It's like when your friend come over and tells you a great idea, would you want to partecipate in it?.
+It's like when your friend come over and tells you a great idea, would you want to participate in it?.
 If you say yes to all your friends you would probably end up doing nothing and be overwhelmed again.
 
 As you see this applies to each part of life.

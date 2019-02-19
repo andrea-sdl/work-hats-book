@@ -2,7 +2,7 @@
 # never tell your goals, on keeping your words
 
 I don't consider myself successful in the way most people think. I'm not rich, not famous, nothing of these things.
-Yet I do think that I succeded in learning such many things.
+Yet I do think that I succeeded in learning such many things.
 Learning to sing from zero, to build up some basic muscles, to run, to jump rope, to talk, to write, to inspire even if for small moments people, to change diets and diets, breakfasts, learning new programming languages, and so on.
 
 It's not to brag about it, but to make a point about _how_ was all of this possible.
@@ -21,7 +21,7 @@ Perceptions matter, and though they are part of the story that led to my idea ab
 
 The second, critical, thing is: We might want to say them only to pump up our ego.
 You know when you say something like "I want to learn bungee jumping" and everyone goes like "Oh man, that's wonderful, I always dreamed of it, bla bla bla".
-You get that nice little feeling that you're the best, that you're one step ahead, but will this imply that you're going to do it? Nope. It usually leads to the opposite result because you're already got what you wanted, a plause.
+You get that nice little feeling that you're the best, that you're one step ahead, but will this imply that you're going to do it? Nope. It usually leads to the opposite result because you're already got what you wanted, a praise.
 
-This leads us to the third and final element: Don't do it for others. Don't do it for your ego. Don't do it for some temporary plause.
+This leads us to the third and final element: Don't do it for others. Don't do it for your ego. Don't do it for some temporary praise.
 Do it for you, for the pleasure of learning, of practice, of being in a constant state of learn, fail, succeed, repeat. But please, don't do it for your ego.

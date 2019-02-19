@@ -1,7 +1,7 @@
 
-# the confort of synchronous communication
+# the comfort of synchronous communication
 
-Did you ever find a collegue tapping on your shoulder for a question, for help?
+Did you ever find a colleague tapping on your shoulder for a question, for help?
 Did you ever had that one person always asking you to come over for a small discussion without even sharing the topic?
 
 I don't blame these behaviours, but we should all admit that they're shortsighted. Rarely we do need that much sync to communicate during common day to day job.

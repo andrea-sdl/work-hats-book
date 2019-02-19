@@ -8,7 +8,7 @@ Why? Because true listening starts with setting aside ego, leaving it out of the
 If you really want to listen to something the first rule would be to not talk.
 
 If you need to talk the only way to continue listening is by asking question that dig deeper into the topic.
-Avoid questions whose goal is to expose the limits of the presentation of your collegue or the errors.
+Avoid questions whose goal is to expose the limits of the presentation of your colleague or the errors.
 Instead, ask question about the subject, if something isn't quite clear, ask why is that, what's the difference.
 
 But the less you talk, the more you listen.

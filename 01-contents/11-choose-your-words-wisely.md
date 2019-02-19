@@ -1,7 +1,7 @@
 
 # choose your words wisely
 
-I was in the waiting room of our doctor and there was this man in his fourthies that kept talking. At first he tried to help the old women that were trying to get their medicines from the doctor, in other cases he was trying to work like a policeman in the middle of the traffict, directing people to where they would go.
+I was in the waiting room of our doctor and there was this man in his forties that kept talking. At first he tried to help the old women that were trying to get their medicines from the doctor, in other cases he was trying to work like a policeman in the middle of the traffic, directing people to where they would go.
 
 To some extent, he was great. But he was _too much_. He did too much. It was like if he couldn't stand the silence, as if silence itself was unbearable.
 

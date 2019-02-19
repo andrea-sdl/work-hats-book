@@ -18,7 +18,7 @@ Why even bother writing a book?
 If you are a person that can read, that doesn't surrender, that can handle lots of trial and error you probably don't need this, you simply need a good book list (which you'll find at the end of the book, by the way).
 But what I noticed is that we are lazy.
 
-We tend to favor (sadly) short and fast readings with instant solutions.
+We tend to favour (sadly) short and fast readings with instant solutions.
 So I wanted to collect some of them in a short book.
 Whatever the work you do, I'm sure some of the topics I cover will be new to you as they were to me, but I felt that putting them all together would make a great recipe to help people in the small hard choices we all face in life.
 

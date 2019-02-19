@@ -17,7 +17,7 @@ He's right. It's that little voice in our head and the sum of all the events tha
 A person shouting at you because you didn't finish the work on time might not do it because they hate you, but because maybe they bet on that finish line, there was money/status at stake, they made promises to people that couldn't keep.
 The fact that the project wasn't delivered on time might not be a problem on many cases, but in _that_ one it was a problem because there was too much at stake.
 
-Or maybe he's shouting because, thanks to this delay, he will receive a paycut, or simply because his personal status will change in the eyes of the bosses, making him look less effective.
+Or maybe he's shouting because, thanks to this delay, he will receive a pay cut, or simply because his personal status will change in the eyes of the bosses, making him look less effective.
 
 Who know what's the story of the person you've got in front. We all don't know.
 Sometimes we're lucky enough to meet people that share this story openly, this way we know what they're coming from and how to help them.

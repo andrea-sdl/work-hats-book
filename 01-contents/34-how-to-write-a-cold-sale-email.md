@@ -22,7 +22,7 @@ So here's the thing.
 
 Step 4 is optional and you know why? Because you first give something and only then you expect some returns.
 Nobody in the entire world would expect something different.
-First you help them, then they _might_help you.
+First you help them, then they _might_ help you.
 
 Do your best, know your topic and their topic, help them _practically_ and go on.
 

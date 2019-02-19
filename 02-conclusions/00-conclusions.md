@@ -44,7 +44,7 @@ It's worth every penny.
 * Ogilvy on Advertising - David Ogilvy
 * Difficult Conversations - Douglas Stone
 * The Art of Learning - Josh Waitzkin
-* How to win friends & Influence People - Dale Carniege (_nota: approcciarlo senza abusare dei contenuti_)
+* How to win friends & Influence People - Dale Carniege (_note: approach it without abusing its contents_)
 * Ego is the Enemy - Ryan Holiday
 * Letters from a Stoic - Seneca
 * Meditations - Marcus Aurelius

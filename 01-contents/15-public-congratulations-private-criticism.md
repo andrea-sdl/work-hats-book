@@ -18,4 +18,4 @@ We're so obsessed of protecting our status, our power, that we focus on the oppo
 Think about it: Praising someone in public would give you a good image, and will surely avoid you losing your face in case you're wrong.
 The same goes for criticizing people in private: It'll allow you to let them grow and understand what they did wrong, this won't surely happen in public where we are pressed to protect our status and therefore we tend to avoid admitting our errors.
 
-And honestly: Didnd't we all hate being humiliated in public? I think that would be enough, it should've been for sure.
+And honestly: Didn't we all hate being humiliated in public? I think that would be enough, it should've been for sure.
