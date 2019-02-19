@@ -4,7 +4,7 @@
 There was a story along these lines that I always loved:
 
 A man goes talking to a big Hotel and ask the owner if they would have the space for an event.
-The owner promptly replied "yes", then the man asked if they have a place big enough to accomodate 1000 people. 
+The owner promptly replied "yes", then the man asked if they have a place big enough to accommodate 1000 people. 
 
 The owner confirmed, then the man asked if, for each person that would come, they would give him one orange by hand (so no self serve).
 
@@ -14,7 +14,7 @@ Then the man asked if they could offer one juice each on entrance, a fresh orang
 
 The owner promptly replied a clear No.
 End of the story, the man didn't choose the hotel. But what's the takeaway? 
-The man didn't need a place for 1000 people, he needed a place to accomodate only 200 people, and he didn't need all the oranges things.
+The man didn't need a place for 1000 people, he needed a place to accommodate only 200 people, and he didn't need all the oranges things.
 
 What the man wanted to know was if the hotel was able to arrange those request, if they could find a way to manage them, 
 There's _always_ a way. 

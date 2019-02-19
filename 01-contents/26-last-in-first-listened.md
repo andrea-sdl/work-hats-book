@@ -4,7 +4,7 @@
 That's a sad truth, we're more likely to listening to a new person we don't know very much than an old friend.
 His/her advices might be more well received than our friends, but why is that?
 
-It's not that the friend becomes instantly useless.But we are less inclined to listen to him.
+It's not that the friend becomes instantly useless. But we are less inclined to listen to him.
 There's prejudice, we _think_ they are saying that for a reason. And there's the fact that we don't really listen to them, but we'd like them to listen to us.
 
 A friend becomes a listener, while in the beginning he was an advisor. And as such, the new, unknown person that seem skilled like our friend become our new advisor.

@@ -5,8 +5,8 @@ Many popular non-fiction books have a specific skeleton to them which usually go
 There's a reason for that. 
 As readers we want to know who's talking, their struggles will allow us to relate with their stories and find how it connect to ours and eventually we get to the interesting part of "How they fixed their problems".
 
-So let's be honest: I'm a normal person. Not a millionar, not a self-made man.
-I am a Web Developer and an Entepreneur, but more importantly I'm one that failed, _a lot_.
+So let's be honest: I'm a normal person. Not a millionaire, not a self-made man.
+I am a Web Developer and an Entrepreneur, but more importantly I'm one that failed, _a lot_.
 
 I started years ago working as a developer with a whole bunch of character issues, I wasn't good at communicating with people and I sucked in being calm.
 Lucky me, I had one trick up my sleeve: I was determined and didn't give up.
@@ -18,7 +18,7 @@ Why even bothering writing a book?
 If you are the person that can read, that doesn't surrender, that can handle lots of trial and error you probably don't need this, you simply need a good book list (which you'll find at the end of the book, by the way).
 But what I noticed is that we are lazy.
 
-We tend to favor (sadly) short and fast readings with instant solutions.
+We tend to favour (sadly) short and fast readings with instant solutions.
 So I wanted to collect some of them in a short book.
 Whatever the work you do, I'm sure some of the topics cover will be new to you as they were to me, but I felt that putting them all together would make a great recipe to help people in the small hard choices we all face in life.
 

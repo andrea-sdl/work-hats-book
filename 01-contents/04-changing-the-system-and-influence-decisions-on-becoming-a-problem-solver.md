@@ -13,12 +13,12 @@ Be impeccable, follow the rules, be the absolute best, do your best work.
 You must become the example to follow, the perfect employee not in the sense of pleasing the bosses, but in the sense of quality of work, of results, all of them.
 
 Second: If you have a problem you want to be fixed be sure to give a solution.
-Keep in mind though that the solution is not enough. The solutions should be feasable, applicable, it should be something within reach.
+Keep in mind though that the solution is not enough. The solutions should be feasible, applicable, it should be something within reach.
 And if possible: You should be sure that the solution will work.
 How? Test it before, try it, find ways to use the method beforehand so that you can confidently say that it'll work.
 
 Third: Once you earned the right to speak and have a solution, now it's all about timing.
-As humans there are times we are more inclined to listening and understanding. Such times are influenced by how many things we have in our mind, what are our priorities and so on. Try to find a good moment when the boss or whoever can fully listen to you with no distraction. It could be a meeting or a coffe break, you name it.
+As humans there are times we are more inclined to listening and understanding. Such times are influenced by how many things we have in our mind, what are our priorities and so on. Try to find a good moment when the boss or whoever can fully listen to you with no distraction. It could be a meeting or a coffee break, you name it.
 
 Fourth: Give the solution with humility.
 Not fake humility, real humility.

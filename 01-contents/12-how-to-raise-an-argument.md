@@ -19,7 +19,7 @@ First: **the way around question**
 
 This is easy: You ask the opposite question: "Did I do something wrong that made you upset?"
 
-Here's the thing: We only know our version of the story and it would be pointless to desire a resolution witouth trying to understand what's their point of view, right?
+Here's the thing: We only know our version of the story and it would be pointless to desire a resolution without trying to understand what's their point of view, right?
 I know that it might sound like if we're not _protecting/explaining_ our reasoning, but it's not about being right. It's about discussing and understanding.
 
 Option 2: **What I felt**

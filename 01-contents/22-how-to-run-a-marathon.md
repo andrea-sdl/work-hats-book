@@ -13,7 +13,7 @@ You have to prepare, maybe not each day, but frequently and consistently.
 You have to plan, to define the many small steps in between.
 
 The first months you'll be able to run 10 minutes. A marathon in those days will feel like you're trying to do the impossible.
-But if you keep working, if you keep training, after a few months those 10 minutes will become 20 minutes, a kilometer, 2 kilometers.
+But if you keep working, if you keep training, after a few months those 10 minutes will become 20 minutes, a kilometre, 2 kilometres.
 The distance till the end will slowly become smaller.
 
 What if you slack? That time won't become smaller.

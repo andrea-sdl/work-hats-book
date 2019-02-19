@@ -14,7 +14,7 @@ Some stops right away at the first barricade, the first bridge to cross, the bug
 
 It could be a developer, a designer, a marketer. It's not the job, it's the mentality.
 
-Why is that some people do find a way to fix bugs they weren't aware of, in softwares they didn't develop, while others can't fix a bug they know in a software they created?
+Why is that some people do find a way to fix bugs they weren't aware of, in software they didn't develop, while others can't fix a bug they know in a software they created?
 
 I think it boils down to 2 things: Questions and surrender.
 And while you might think you're not in this group of people, think again.
@@ -43,9 +43,9 @@ In case of a bug (as a developer) the questions are still there but in a differe
 * Can I remove the code that removes the bug?
 
 Even if I don't have the skills, I can isolate the bug, find the cause and then think about how to fix it.
-It might seem like an impossible task but I can guarantee this by experience: I once fixed a bug in a software I didn't develop, that I didn't ever see nor used, developed by people that I didn't know and the only difference between me and them is that I isolated the problem by remove code (in a logaritmic way, but still code removal is).
+It might seem like an impossible task but I can guarantee this by experience: I once fixed a bug in a software I didn't develop, that I didn't ever see nor used, developed by people that I didn't know and the only difference between me and them is that I isolated the problem by remove code (in a logarithmic way, but still code removal is).
 
-We seek help too fast for problems that are too littles. It should always sound alarming when you reach out to someone, he/her doesn't reply you and in the minutes you wait for their answers you fix the problem.
+We seek help too fast for problems that are too little. It should always sound alarming when you reach out to someone, he/her doesn't reply you and in the minutes you wait for their answers you fix the problem.
 It means you asked for help too fast. 
 You were lazy maybe, maybe you didn't were confident enough.
 
