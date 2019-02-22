@@ -6,7 +6,7 @@ There's a reason for that.
 As readers we want to know who's talking, their struggles will allow us to relate with their stories and find how it connect to ours and eventually we get to the interesting part of "How they fixed their problems".
 
 So let's be honest: I'm a normal person. Not a millionaire, nor a self-made man.
-I am a Web Developer and an Entepreneur, but more importantly I'm one that failed, _a lot_.
+I am a Web Developer and an Entrepreneur, but more importantly I'm one that failed, _a lot_.
 
 I started years ago working as a software developer with a whole bunch of character issues, I wasn't good at communicating with people and I sucked in being calm.
 Lucky me, I had one trick up my sleeve: I was determined and didn't give up.
