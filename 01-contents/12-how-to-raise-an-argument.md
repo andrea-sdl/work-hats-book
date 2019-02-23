@@ -33,4 +33,4 @@ Obviously if the reasoning is sound we should accept it because, as I said, we'r
 And that's about it. 
 There will come a time when both option will fail, and in such cases if you're out of ideas you might as well accept the fact that this isn't the right time to discuss this. 
 
-There might be some extra walls to pass in their/your defence that we can't simply overcome today.
+There might be some extra walls to pass in their/your defense that we can't simply overcome today.

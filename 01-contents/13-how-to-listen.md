@@ -20,6 +20,6 @@ This will produce two effects:
 * It'll allow you to be sure of what you learned and check if you listened and understood
 * It'll allow the other person to see that you were actively listening, you were participating.
 
-Too often we listen only to say "I got it". Which shows only our ego, our "I'm the best" type of behaviour.
+Too often we listen only to say "I got it". Which shows only our ego, our "I'm the best" type of behavior.
 
 To show if you truly grasped a concept there's no better way than repeating it and this will always make the other person happy if you can put it using your own words in a truly sincere way.

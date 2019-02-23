@@ -15,9 +15,9 @@ Inspired  by some findings I decided to do a one month test where I would not ta
 
 It was damn hard to get past that month. I craved sugar and drinking a black coffee seemed impossible to me yet somewhat I eventually got to the end of the month.
 
-What happened was unbelievable: Every flavour was different. A cappuccino now was very sweet even without sugar, some candies were absolutely horrible.
+What happened was unbelievable: Every flavor was different. A cappuccino now was very sweet even without sugar, some candies were absolutely horrible.
 
-What that one month did to my taste was "resetting" my tasting profile and it opened up to me a whole new world of flavours.
+What that one month did to my taste was "resetting" my tasting profile and it opened up to me a whole new world of flavors.
 
 We can do the same with complaint. Test a one month no-complaint rule.
 Not work-only, in the scope of your entire life. Work, home, play, sport, whatever: No complain.
@@ -26,7 +26,7 @@ Ask a friend to keep you accountable, a nice way to do this is for you to lend a
 
 You'll also need to not complain "in your head". It would be too much easy to simply avoid complaining while you bash everyone inside your mind, but that's not the goal. The goal is to avoid complaining entirely.
 
-It'll be hard, but it'll reset part of your "go-to" behaviour.
+It'll be hard, but it'll reset part of your "go-to" behavior.
 Oh, and by the way: If you fail at it, try again.
 
 There was this teacher of improv that once told me this thing: _If you were already good at improv you wouldn't need a teacher, right?_

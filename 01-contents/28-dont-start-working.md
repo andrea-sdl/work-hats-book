@@ -6,7 +6,7 @@ What's your ideal day? You wake up, drink a cup of coffee, head to work, sit on 
 I rarely had that day. It happens that when I get to work I open my email and some crash happened or there's some urgent matter to be taken care of.
 
 My first reaction was to start working on the problem. Fixing it asap. It felt so important after all..
-But after many times I realized that no, this doesn't work because you're postponing the important work in favour of the urgent work.
+But after many times I realized that no, this doesn't work because you're postponing the important work in favor of the urgent work.
 They might _seem_ the same, but they're not. They surely _feel_ different. Important is something you care in the long run. Urgent in the short term.
 Urgent is going to the bathroom, important is having a bank account named after your son so that when he becomes adult he'll have some money to back him up.
 
