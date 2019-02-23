@@ -1,9 +1,9 @@
 
 # changing the system and influence decisions. On becoming a problem solver.
 
-It's amazing how we all need some reminders from time to time of what it's "the path", the way to follow, the goal.
+From time to time we all need reminders of what it's "the path", the way to follow, the goal.
 
-Often we find ourselves trapped in work situations where we would like to improve an efficient process, yet we feel we don't have the power to influence that process. No matter what, our advices don't get through.
+Often we find ourselves trapped in work situations where we would like to improve an inefficient process, yet we feel we don't have the power to influence that process. No matter what, our advices don't get through.
 
 Why is that? There are many reasons, but how could we change it?
 I was listening to this wonderful interview of Jocko Willing, author of "Extreme Ownership", and he reminded me a couple of things I knew back then that are still useful today.
@@ -22,7 +22,7 @@ As humans there are times we are more inclined to listening and understanding. S
 
 Fourth: Give the solution with humility.
 Not fake humility, real humility.
-If you can't be true, then it's useless. Humility is key to this because nobody wants an asshole or a "I know everything" guy. Be humble, propose, be honest. Try to frame the solution from their point of view, listing benefits and risk. 
+If you can't be true, then it's useless. Humility is key to this because nobody wants an asshole or a "I know everything" guy. Be humble, propositive, honest. Frame the solution from their point of view, listing benefits and risks. 
 Don't hide risks, but be sure to explain what will come if there's a benefit.
 
 Fifth: If it fails, start from 0 again and do better. 

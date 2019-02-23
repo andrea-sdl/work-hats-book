@@ -4,7 +4,7 @@
 How many times did you felt like this isn't the right way to manage a project, to let people work with you, to talk, to express your opinion, to discuss complex topic?
 
 There is no shortcut, no way around, and it's the same old song: We can't change the world..
-It's absurdly hard to change the behaviour of the people around us.
+It's incredibly hard to change the behaviour of the people around us.
 We can try but they'll get defensive, they'll start protecting their own positions.
 
 So what to do? Lead the way.
@@ -22,7 +22,7 @@ You're afraid to be wrong, to be shamed in public, to be that stupid guy that sa
 So what do you do?.
 You wait until someone puts one hand up to share an answer and after that many hands come up too.
 
-That single person _enabled_ everyone to do the same. He/Her gave you the courage to do the same.
+That single person _enabled_ everyone to do the same. They gave you the courage to do the same.
 
 Be that one, be the one that puts the hand up first.
 Take the leap, lead the way.
