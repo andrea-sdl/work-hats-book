@@ -20,7 +20,7 @@ They do work, but they're also missing the point.
 
 Because what's missing in this equation is the human nature. The "Fake it till you make it" can work days, weeks, months but it won't get you further than that. To go beyond you have to embrace it. To be honest and force yourself to change.
 
-Faking it won't work in the long term. It's a short term strategy to relieve you from some problems. To reduce pain, because it's hard to fight when you have less power. So that's it. But it's not a cure..
+Faking it won't work in the long term. It's a short term strategy to relieve you from some problems. To reduce pain, because it's hard to fight when you have less power. So that's it. But it's not a cure.
 It's like an aspirin. Can work for a cold, not for a serious problem.
 
 And we _do_ have serious problems.

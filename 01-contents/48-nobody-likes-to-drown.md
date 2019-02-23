@@ -3,7 +3,7 @@
 
 What's the first reaction when you're not able to manage a sea or a pool and you're drowning in it?
 
-You move frantically your hands and try to shout "Help me"..
+You move frantically your hands and try to shout "Help me".
 It one of the few moments  in life when ego and our social status doesn't get in the way.
 
 In near-death situations we tend to get back to our roots, to ignore whatever status we have. To do what's needed to survive.

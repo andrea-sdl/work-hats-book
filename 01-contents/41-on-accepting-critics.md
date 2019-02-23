@@ -1,7 +1,7 @@
 
 # on accepting critics
 
-This year I made an "experiment"..
+This year I made an "experiment".
 I wanted to know from some people if I had some issues to fix, both technical and non technical, so I sent out a small survey to ask them for help and an honest question.
 
 Not all of them answered but some did and their answer was not what I was expecting.

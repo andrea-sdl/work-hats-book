@@ -3,7 +3,7 @@
 
 How many times did you felt like this isn't the right way to manage a project, to let people work with you, to talk, to express your opinion, to discuss complex topic?
 
-There is no shortcut, no way around, and it's the same old song: We can't change the world..
+There is no shortcut, no way around, and it's the same old song: We can't change the world.
 It's incredibly hard to change the behavior of the people around us.
 We can try but they'll get defensive, they'll start protecting their own positions.
 

@@ -7,7 +7,7 @@ Yet, when people do complain to us, we're scared, angry, we feel bad.
 This doesn't teach us anything, and even if we have evidence of the side-effects of complaint we don't have a plan to fix it.
 
 As in many things we can understand why: It's easy.
-It's simply easy to complain, to surrender, to give up..
+It's simply easy to complain, to surrender, to give up.
 Big habits change require time and effort, that's why they don't happen so often.
 
 Many years ago I loved sugar (I still do...), but one time I realized that I probably overused it.

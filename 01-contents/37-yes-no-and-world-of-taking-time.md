@@ -11,15 +11,15 @@ That lie will build up until it won't be sustainable. You'll be overwhelmed unle
 
 This is a common situation if you think about marketing and selling. We're used to think that to sell you have to lie. To sell things you can't have because it's more important to get the client and then "who cares". Right?
 
-It's a short term benefit, but not a long term strategy..
+It's a short term benefit, but not a long term strategy.
 It can't be a long term strategy because it's not sustainable. What's the right answer then if your boss comes over with such complex questions?
 
-Take time..
+Take time.
 Say "Give me 30 minutes to think about it".
 Or maybe it a day, one week, whatever seems enough to get a hold of what you need.
 You might not get a perfect answer, but at least you will know that your answer is based on actual information and not because you want to be nice to the boss.
 
-After all it all boils down to say more No's in life..
+After all it all boils down to say more No's in life.
 It's like when your friend come over and tells you a great idea, would you want to participate in it?.
 If you say yes to all your friends you would probably end up doing nothing and be overwhelmed again.
 

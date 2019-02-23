@@ -9,7 +9,7 @@ The fact is: For some people urgency, emergency, is the standard.
 
 There is no difference between long term, short term: Everything is urgent. Everything is needed now.
 
-These people might be easy to spot, but it doesn't mean they're always visible in plain sight..
+These people might be easy to spot, but it doesn't mean they're always visible in plain sight.
 Some people hide the urgency behind a great communication, some people use different words. In the end you might not guess instantly that they are "those type of people".
 
 It might take a while and some introspection to understand who they are but when you do there is only one answer to them: Delay them.

@@ -15,5 +15,5 @@ The other person can easily spot the issue in your talk and you will feel them t
 
 The last thing to do is to write more, and take more time to write so that by practicing you reach a better skill in this area.
 
-Iterate until you reach confidence in the writing and you're done..
+Iterate until you reach confidence in the writing and you're done.
 You won't become the next Stephen King by doing this, but you'll at least improve the basic writing skills.
