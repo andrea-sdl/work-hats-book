@@ -4,7 +4,7 @@
 What is work life balance? For some people it means that at 5pm you go home. But would that be enough?
 
 Work life balance is much more than that.
-It represents how much your work is intertwined with your life.
+It represents how much your work is entertwined with your life.
 
 Let me share an example: You come home at 6 pm, everything is fine.
 But then your phone rings, your boss needs some questions and you answer to him.
