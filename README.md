@@ -3,7 +3,7 @@ Public Repository of the Opensource book "Work Hats"
 
 ## How to build the ebook
 
-`pandoc --toc --epub-embed-font='fonts/*.ttf' -o dist/work-hats-book.epub metadata.txt 00-preface/*.md 01-contents/*.md 02-conclusions/*.md`
+`mkdir -p dist && pandoc --toc --epub-embed-font='fonts/*.ttf' -o dist/work-hats-book.epub metadata.txt 00-preface/*.md 01-contents/*.md 02-conclusions/*.md`
 
 **mobi**
 `kindlegen dist/work-hats-book.epub  -o work-hats-book.mobi`
