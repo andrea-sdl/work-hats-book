@@ -6,7 +6,7 @@ Suddenly the job you love so much doesn't seem so appealing.
 
 You start wondering: What should I do? Should I leave? Maybe it's time to switch jobs, maybe this is not for me, it's not the right time.
 
-We all got to that point, I did multiple times and I continue seeing people on that edge..
+We all got to that point, I did multiple times and I continue seeing people on that edge.
 To me there was one thing that changed it all: "It's your job, no  matter how good or bad, you should always do your best".
 
 This doesn't automatically translate into "Don't leave the job". What it says is that, _while you're on that job_ you should always do your best.

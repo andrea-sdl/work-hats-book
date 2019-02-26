@@ -22,7 +22,7 @@ As humans there are times we are more inclined to listening and understanding. S
 
 Fourth: Give the solution with humility.
 Not fake humility, real humility.
-If you can't be true, then it's useless. Humility is key to this because nobody wants an asshole or a "I know everything" guy. Be humble, propositive, honest. Frame the solution from their point of view, listing benefits and risks. 
+If you can't be true, then it's useless. Humility is key to this because nobody wants an asshole or a "I know everything" guy. Be humble, proactive, honest. Frame the solution from their point of view, listing benefits and risks. 
 Don't hide risks, but be sure to explain what will come if there's a benefit.
 
 Fifth: If it fails, start from 0 again and do better. 

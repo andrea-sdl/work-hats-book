@@ -1,7 +1,7 @@
 
 # life in a glass
 
-When I was a child my mother would often remind of a saying "If walls were made of glass, you'd see what families do for real"She meant that we change our behaviour based on the fact that "nobody is watching us", that if people were watching us it would show all the bad things we do or we would stop doing them because of that kind of transparency.
+When I was a child my mother would often remind of a saying "If walls were made of glass, you'd see what families do for real"She meant that we change our behavior based on the fact that "nobody is watching us", that if people were watching us it would show all the bad things we do or we would stop doing them because of that kind of transparency.
 
 In the internet era this is so true. Everything is made of glass, each and every word you write can become something that will be available to everyone in the world.
 

@@ -9,11 +9,11 @@ Are you planning to cover it up?.
 Will you find some excuse to be sure you're not responsible?.
 Will you blame someone else?
 
-Or consider this: You did your job..
+Or consider this: You did your job.
 Will you pump it up even though it's not completed?.
 Will you try to make it look much more valuable even though you're selling air?
 
-_Anyone_ can do this..
+_Anyone_ can do this.
 Anyone can lie, some people can do it better than others. But it's something the world already knows.
 
 We see it each and every day, when the call center calls you to sell you the new offer for your home electricity and we no there are rarely such good offer.
@@ -21,7 +21,7 @@ We see it each and every day, when the call center calls you to sell you the new
 Would you say these lies improved your life? I bet no.
 
 So be honest.
-It's hard, I know. It's hard to be judged and not judging..
+It's hard, I know. It's hard to be judged and not judging.
 To not have a way out.
 
 But if you did a mistake, then accept it. It's life. The mistake will still be there anytime, but you'll have an opportunity to learn how to build trust with the people you know.

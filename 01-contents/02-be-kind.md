@@ -8,7 +8,7 @@ You might do your best to be kind, do have empathy with someone and he or she mi
 
 But it's also underrated because we forget how much power kindness has.
 There is this famous saying "Be kind; Everyone you meet is fighting a hard battle". That is true in a specific sense.
-When you face someone that is angry at you he might not be really angry because you did something wrong..
+When you face someone that is angry at you he might not be really angry because you did something wrong.
 As in the aforementioned example, people can still react bad even when you did your best, so why this happens?
 
 It happens because there's a story we tell in our minds. Seth Godin, author and bestseller, clears this up by saying that it's our internal narrative that defines what we do, how we react and so on.
@@ -23,7 +23,7 @@ Who know what's the story of the person you've got in front. We all don't know.
 Sometimes we're lucky enough to meet people that share this story openly, this way we know what they're coming from and how to help them.
 Other times we are left with them shouting at us.
 
-In all cases, be kind. Don't be the one shouting..
+In all cases, be kind. Don't be the one shouting.
 Because, on the other hand, there are people who did their best and still failed.
 Edison failed 10.000 times before finding one idea that worked, we're not different. We fail.
 

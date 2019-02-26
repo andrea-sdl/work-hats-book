@@ -10,7 +10,7 @@ So let's say you're discussing a new project, how to get to the good question? S
 
 See, the problem is that we think stupid questions are useless. They're not, even though sometimes they can be easily avoided they are still part of the learning process.
 
-The worst part of stupid questions is that we have learned, through social behaviour, that we should refrain from asking them. But how do we know if we're asking a stupid question? We don't have any reference and therefore we tend to keep our mouth shut. 
+The worst part of stupid questions is that we have learned, through social behavior, that we should refrain from asking them. But how do we know if we're asking a stupid question? We don't have any reference and therefore we tend to keep our mouth shut. 
 This hurts our learning because we don't ask question at all, while we should do the exact opposite.
 
 But _how can I learn it to ask good questions?_ 

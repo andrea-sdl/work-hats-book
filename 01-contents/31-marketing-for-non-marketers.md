@@ -34,5 +34,5 @@ Start by sharing how and in which things the product you're selling will improve
 
 Be honest about it, don't be fake, share the struggle if you had it (like, for example, "I wasn't able to do X because of Y") and, last but not least: READ IT OUT LOUD.
 
-It must feel like a talk with another human being..
+It must feel like a talk with another human being.
 If it doesn't, it's not ok, if it does, you're off to a great start.

@@ -5,7 +5,7 @@ Is there a way to share your opinion so that it gets accepted?
 
 NO.
 
-That's it..
+That's it.
 There are times when it's because you don't know how to communicate that your opinion doesn't get accepted, but the key thing many people don't get about it is that _you will still get rejected_.
 
 There's no way around it. There are times when your opinion isn't useful, isn't requested nor it can be understood and you cannot change that.
