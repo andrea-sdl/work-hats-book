@@ -1,11 +1,11 @@
 
 # difficult conversations
 
-There is one amazing book I always advise reading which is called "Difficult Conversations" of "Douglas Stones".
+There is one amazing book I always advise reading which is called "Difficult Conversations" from "Douglas Stones".
 
 It's a book about talking with people when there is a high stake for both. In case you're angry or you're discussing a very complex and hot topic.
 
-What I learned through that book is that when we start discussing we should always be _truly_ open to listening their point of view, learning how to also _repeat_ in our words what they said.
+What I learned through that book is that when we start discussing we should always be _truly_ open to listening the other point of view, learning how to also _repeat_ in our words what they said.
 
 Why repeating is so important? Because if you need to repeat in your own words you need to do two things
 
