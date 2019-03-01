@@ -1,7 +1,7 @@
 
 # there are things that last forever
 
-One wise man once told me: _"Nothing is more definitive than a temporary fix."_
+One man once told me: _"Nothing is more definitive than a temporary fix."_
 
 He was damn right.
 We tell ourselves that we will have to cope with that fix just for a little while, but soon we will find a good permanent solution.
