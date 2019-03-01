@@ -8,7 +8,7 @@
 5. Arrive prepared. Do your homework, read mails, papers, etc.
 6. Don't ask for a recap at the beginning of the meeting of what you should know. Arrive prepared or else you're useless.
 7. Don't ask for a recap at the end of the meeting.
-8. No smartphone, no computers.
+8. No smartphone, use computers only to take notes or show something.
 9. One person should do the meeting recap via mail, listing all that's been discuessed and decided. (If no action will follow-up the meeting, then the meeting is useless and could've been discarded).
 10. If no person is defined, be the one. Take responsibility and ownership.
 11. Let people talk.
