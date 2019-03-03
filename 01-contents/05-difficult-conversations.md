@@ -1,7 +1,7 @@
 
 # difficult conversations
 
-There is one amazing book I always advise reading which is called "Difficult Conversations" of "Douglas Stones".
+There is one amazing book I always advise reading which is called "Difficult Conversations" from "Douglas Stones".
 
 It's a book about talking with people when there is a high stake for both. In case you're angry or you're discussing a very complex and hot topic.
 
